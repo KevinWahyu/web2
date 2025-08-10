@@ -1,2 +1,2 @@
 # web_2
-Web Design Technotainment 
+Lomba Web Design Technotainment 
