@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    $recaptchaSecret = "(Your API)";
+    $recaptchaSecret = "Your secret API";
     $recaptchaResponse = $_POST['g-recaptcha-response'];
 
     // Verify the CAPTCHA
@@ -35,4 +35,5 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     exit;
 }
 ?>
+
 
