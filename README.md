@@ -41,10 +41,7 @@ web_2-main/
 - Opsional: \Node.js hanya jika Anda ingin menambahkan tool dev, tidak diperlukan saat ini
 
 ## Menjalankan Secara Lokal
-1. Clone repositori:
-git clone https://github.com/<username>/<repo>.git
-cd <repo>/web_2-main
-
+1. Clone repositori
 2. Jalankan server \PHP (contoh bawaan \PHP):
 
 Atau gunakan ekstensi \Live Server (untuk halaman statis). Untuk alur verifikasi reCAPTCHA, gunakan server \PHP karena `verify.php` butuh eksekusi server.
