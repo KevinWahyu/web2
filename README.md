@@ -1,6 +1,6 @@
-# Blender — Landing Page Layanan Kesehatan Mental
+# Blender — Layanan Kesehatan Mental
 
-Proyek ini adalah situs statis untuk layanan kesehatan mental bernama \Blender. Situs mencakup halaman \Landing, \About Us, \How It Works, \Testimoni, dan \Contact Us (dengan verifikasi \reCAPTCHA terlebih dahulu).
+Proyek ini adalah situs statis untuk layanan kesehatan mental bernama Blender. Situs mencakup halaman \Landing, \About Us, \How It Works, \Testimoni, dan \Contact Us (dengan verifikasi \reCAPTCHA terlebih dahulu).
 
 ## Fitur
 - Navigasi responsif dengan hamburger menu
